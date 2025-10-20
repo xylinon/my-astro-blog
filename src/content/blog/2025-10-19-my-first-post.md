@@ -1,4 +1,8 @@
 ---
+title: My First Post
+pubDate: 2025-10-19
+---
+---
 title: '今天是个好日子'
 pubDate: 2025-10-19
 description: '记录搭建博客的喜悦'
